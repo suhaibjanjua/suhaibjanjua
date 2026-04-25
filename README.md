@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="[https://suhaibjanjua.github.io](https://suhaibjanjua-github-io.pages.dev/)" target="_blank">
+  <a href="https://suhaibjanjua-github-io.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
