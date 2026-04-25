@@ -252,7 +252,7 @@ Nov 2013 ───────────────────────�
     <img src="https://img.shields.io/badge/Send_an_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://suhaibjanjua.github.io">
+  <a href="https://suhaibjanjua-github-io.pages.dev">
     <img src="https://img.shields.io/badge/Visit_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
