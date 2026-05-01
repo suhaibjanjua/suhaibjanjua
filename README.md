@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suhaib%20Janjua&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Strategic%20Technology%20Leader%20%7C%20Enterprise%20Cloud%20Architect%20%7C%20Innovation%20Catalyst&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suhaib%20Janjua&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Strategic%20Technology%20Leader%20%7C%20Enterprise%20Cloud%20Architect%20%7C%20AI%20Open%20Source%20Contributor&descAlignY=55&descSize=16" width="100%" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Senior+Technical+Product+Manager;Enterprise+Cloud+Architect+%7C+AWS+Expert;12%2B+Years+of+Engineering+Excellence;Full-Stack+%7C+DevOps+%7C+AI%2FML+Explorer;Architecting+Tomorrow%27s+Technology+Today" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Senior+Technical+Product+Manager;Enterprise+Cloud+Architect+%7C+AWS+Expert;Top+20+Worldwide+AI+Open+Source+Contributor;12%2B+Years+of+Engineering+Excellence;Full-Stack+%7C+DevOps+%7C+Agentic+AI+Explorer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://suhaibjanjua-github-io.pages.dev" target="_blank">
+  <a href="https://suhaibjanjua-github-io.pages.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
@@ -37,18 +37,68 @@
 
 ---
 
+## 🌍 Open Source Impact — Top 20 Worldwide Contributor
+
+<div align="center">
+
+  > **I am a Top 20 worldwide contributor to one of the most starred AI agent skill repositories on GitHub.**
+
+  <a href="https://github.com/sickn33/antigravity-awesome-skills">
+    <img src="https://img.shields.io/badge/🤖_antigravity--awesome--skills-Top%2020%20Contributor-6366F1?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sickn33/antigravity-awesome-skills/stargazers">
+    <img src="https://img.shields.io/github/stars/sickn33/antigravity-awesome-skills?style=for-the-badge&logo=github&color=F59E0B&label=Stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sickn33/antigravity-awesome-skills/network/members">
+    <img src="https://img.shields.io/github/forks/sickn33/antigravity-awesome-skills?style=for-the-badge&logo=github&color=10B981&label=Forks" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <strong>🌟 35,000+ Stars</strong><br/>
+        <sub>One of the most starred<br/>AI tools repos on GitHub</sub>
+      </td>
+      <td align="center" width="200">
+        <strong>🤖 1,400+ Skills</strong><br/>
+        <sub>Agentic skills for Claude Code,<br/>Cursor, Codex CLI, Gemini CLI</sub>
+      </td>
+      <td align="center" width="200">
+        <strong>🍴 5,800+ Forks</strong><br/>
+        <sub>Trusted by thousands of<br/>AI engineers worldwide</sub>
+      </td>
+      <td align="center" width="200">
+        <strong>🏆 Top 20 Global</strong><br/>
+        <sub>Ranked among the world's<br/>top contributors</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+[`sickn33/antigravity-awesome-skills`](https://github.com/sickn33/antigravity-awesome-skills) is the premier installable library of agentic AI skills for Claude Code, Cursor, Codex CLI, Gemini CLI, and more — used by AI engineers, product builders, and developer teams globally. I actively contribute skills, workflows, and bundles that extend AI agent capabilities in real-world engineering contexts.
+
+---
+
 ## 🚀 About Me
 
 ```yaml
-name        : Suhaib Janjua
-location    : Lahore, Punjab, Pakistan 🇵🇰
-role        : Senior Technical Product Manager @ Amigo Software Ltd
-experience  : 12+ Years of Engineering & Product Leadership
+name          : Suhaib Janjua
+location      : Lahore, Punjab, Pakistan 🇵🇰
+role          : Senior Technical Product Manager @ Amigo Software Ltd
+experience    : 12+ Years of Engineering & Product Leadership
 certifications: 16 Elite Professional Certifications
-projects    : 100+ Enterprise & Open-Source Projects Delivered
-focus       : Cloud Architecture · Full-Stack Engineering · AI/ML Integration
-superpower  : Transforming complex business challenges into scalable cloud solutions
-currently   : Exploring AI/ML integration & Advanced Kubernetes
+oss_impact    : Top 20 Worldwide Contributor — antigravity-awesome-skills (35K+ ⭐)
+projects      : 100+ Enterprise & Open-Source Projects Delivered
+focus         : Cloud Architecture · Full-Stack Engineering · Agentic AI
+superpower    : Transforming complex business challenges into scalable AI-powered solutions
+currently     : Building AI agent workflows · Advanced Kubernetes · LLM tooling
 ```
 
 ---
@@ -59,20 +109,20 @@ currently   : Exploring AI/ML integration & Advanced Kubernetes
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/12%2B%20Years-Leading%20Teams-6366F1?style=for-the-badge&logoColor=white" /><br/>
-        <sub>Engineering Leadership</sub>
+        <img src="https://img.shields.io/badge/12%2B%20Years-Engineering%20Leadership-6366F1?style=for-the-badge&logoColor=white" /><br/>
+        <sub>End-to-End Product & Tech</sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/16-Elite%20Certifications-F59E0B?style=for-the-badge&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Top%2020-Global%20OSS%20Contributor-F59E0B?style=for-the-badge&logoColor=white" /><br/>
+        <sub>antigravity-awesome-skills</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/16-Elite%20Certifications-10B981?style=for-the-badge&logoColor=white" /><br/>
         <sub>Professional Certifications</sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/100%2B-Projects%20Overseen-10B981?style=for-the-badge&logoColor=white" /><br/>
-        <sub>Enterprise Delivery</sub>
-      </td>
-      <td align="center">
         <img src="https://img.shields.io/badge/AWS-Cloud%20Expert-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
-        <sub>Cloud Infrastructure</sub>
+        <sub>8+ Years Cloud Infrastructure</sub>
       </td>
     </tr>
   </table>
@@ -135,15 +185,16 @@ div>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 </div>
 
-### 🤖 AI/ML & Emerging Tech
+### 🤖 AI / Agentic Tech
 div>
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-6366F1?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-10B981?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-6366F1?style=flat-square&logoColor=white" />
 </div>
 
 ---
@@ -151,7 +202,7 @@ div>
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaibjanjua&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=C9D1D9&ring_color=6366F1" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhaibjanjua&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=C9D1D9&ring_color=6366F1&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibjanjua&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
 </div>
@@ -228,10 +279,10 @@ Nov 2013 ───────────────────────�
 ## 🎯 Currently Exploring
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🤖_AI%2FML_Integration-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_Agentic_AI_Skills-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_LLM_Workflows_%26_Claude_Code-CC785C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/☸️_Advanced_Kubernetes-326CE5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌐_Web3_Development-F16822?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_LLM_Workflows-412991?style=for-the-badge" />
 </div>
 
 ---
@@ -241,7 +292,7 @@ Nov 2013 ───────────────────────�
 <div align="center">
   <p>
     <em>"Architecting Tomorrow's Technology Today — From concept to deployment,<br/>
-    transforming complex business challenges into scalable cloud solutions."</em>
+    transforming complex business challenges into scalable AI-powered solutions."</em>
   </p>
 
   <a href="https://linkedin.com/in/suhaibjanjua">
@@ -252,7 +303,7 @@ Nov 2013 ───────────────────────�
     <img src="https://img.shields.io/badge/Send_an_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://suhaibjanjua-github-io.pages.dev">
+  <a href="https://suhaibjanjua-github-io.pages.dev/">
     <img src="https://img.shields.io/badge/Visit_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
